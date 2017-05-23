@@ -1,0 +1,137 @@
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\bin\Debug\Application_usart.exe
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\bin\Debug\Application_usart.pdb
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.Form1.resources
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.exe
+c:\users\junge\documents\visual studio 2013\Projects\Application_usart\Application_usart\obj\Debug\Application_usart.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS\Application_usart\obj\Debug\Application_usart.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS\Application_usart\obj\Debug\Application_usart.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS\Application_usart\bin\Debug\Application_usart.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS\Application_usart\bin\Debug\Application_usart.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS1\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS1\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS1\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS1\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS1\Application_usart\bin\Debug\BMS主控显示PC端V1.0.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS1\Application_usart\bin\Debug\BMS主控显示PC端V1.0.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS1\Application_usart\obj\Debug\BMS主控显示PC端V1.0.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMS1\Application_usart\obj\Debug\BMS主控显示PC端V1.0.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.2\Application_usart\bin\Debug\BMS主控显示PC端V1.2.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.2\Application_usart\bin\Debug\BMS主控显示PC端V1.2.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.2\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.2\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.2\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.2\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.2\Application_usart\obj\Debug\BMS主控显示PC端V1.2.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.2\Application_usart\obj\Debug\BMS主控显示PC端V1.2.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\bin\Debug\BMS主控显示PC端V1.4.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\bin\Debug\BMS主控显示PC端V1.4.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\obj\Debug\BMS主控显示PC端V1.4.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\obj\Debug\BMS主控显示PC端V1.4.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.4\Application_usart\obj\Debug\Application_usart.Form2.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\bin\Debug\BMS主控显示PC端V1.6.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\bin\Debug\BMS主控显示PC端V1.6.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\obj\Debug\Application_usart.Form2.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\obj\Debug\BMS主控显示PC端V1.6.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\obj\Debug\BMS主控显示PC端V1.6.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.6\Application_usart\bin\Debug\BMS主控显示PC端V1.6.XML
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\bin\Debug\BMS主控显示PC端V1.6.XML
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\obj\Debug\BMS主控显示PC端V1.6.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\obj\Debug\BMS主控显示PC端V1.6.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\bin\Debug\BMS主控显示PC端V1.6.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\bin\Debug\BMS主控显示PC端V1.6.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\obj\Debug\Application_usart.Form2.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV1.8\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\bin\Debug\BMS主控显示PC端V2.1（新协议）.xml
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\bin\Debug\BMS主控显示PC端V2.1（新协议）.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\bin\Debug\BMS主控显示PC端V2.1（新协议）.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\Application_usart.Form2.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\BMS主控显示PC端V2.1（新协议）.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\BMS主控显示PC端V2.1（新协议）.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\Application_usart.Form3.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.1（新协议版本）\Application_usart\obj\Debug\Application_usart.Form4.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.xml
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Form2.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Form3.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Form4.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Form5.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\BMS主控显示PC端V2.3（新协议）.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\BMS主控显示PC端V2.3（新协议）.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Form6.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Form7.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本）\Application_usart\obj\Debug\Application_usart.Form8.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.xml
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\BMS主控显示PC端V2.3（新协议）.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\BMS主控显示PC端V2.3（新协议）.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Form2.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Form3.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Form4.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Form5.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Form6.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Form7.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Form8.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.3（新协议版本） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.xml
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\BMS主控显示PC端V2.3（新协议）.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\BMS主控显示PC端V2.3（新协议）.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form2.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form3.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form4.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form5.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form6.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form7.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form8.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.xml
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\BMS主控显示PC端V2.3（新协议）.exe
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\BMS主控显示PC端V2.3（新协议）.pdb
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.exe
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\bin\Debug\BMS主控显示PC端V2.3（新协议）.pdb
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.csprojResolveAssemblyReference.cache
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form1.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form2.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form3.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form4.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form5.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form6.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form7.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Form8.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.Properties.Resources.resources
+C:\Users\lyx\Desktop\BMSV2.4（新协议版本+历史数据保存） 最终\BMSV2.4（新协议版本+历史数据保存） 最终\Application_usart\obj\Debug\Application_usart.csproj.GenerateResource.Cache
